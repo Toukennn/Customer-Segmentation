@@ -70,18 +70,19 @@ Each segment reflects distinct income, spending, and engagement patterns.
 
 An interactive web app allows users to input customer information and instantly predict the customer segment.
 
-### ▶ Run the app locally
+## ▶ Run the App Locally
 
-1. Install dependencies:
-```bash
+### 1. Install dependencies
+Make sure Python 3.9+ is installed, then run:
 pip install numpy pandas scikit-learn seaborn matplotlib streamlit joblib
 
-2. Navigate to the project directory:
+### 2. Navigate to the project directory
 cd segmentation_project
 
-3.Launch the app:
+### 3. Launch the Streamlit app
 streamlit run segmentation.py
 
-Open your browser at:
-http://localhost:8501
+### 4. Open the app in your browser
+After launching, Streamlit will display a local URL.
+Open your browser and go to:
 http://localhost:8501

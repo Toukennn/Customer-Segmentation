@@ -19,11 +19,11 @@ The project consists of:
 
 ## 📂 Repository Structure
 segmentation_project/
-├── customer_segmentation.ipynb
-├── customer_segmentation.csv
-├── kmeans_model.pkl
-├── scaler.pkl
-└── segmentation.py
+- ├── customer_segmentation.ipynb
+- ├── customer_segmentation.csv
+- ├── kmeans_model.pkl
+- ├── scaler.pkl
+- └── segmentation.py
 
 ---
 

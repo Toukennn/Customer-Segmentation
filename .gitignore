@@ -1,0 +1,54 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+ENV/
+env/
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# ===== Jupyter / IPython =====
+.ipynb_checkpoints/
+.profile_default/
+.ipython/
+
+# ===== Data / outputs (adjust as needed) =====
+data/
+datasets/
+*.csv
+*.parquet
+*.feather
+*.pkl
+*.joblib
+*.h5
+*.sqlite
+*.db
+
+# ===== Model artifacts =====
+models/
+checkpoints/
+*.pt
+*.pth
+
+# ===== Logs =====
+logs/
+*.log
+
+# ===== OS / Editor =====
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ===== Reports / figures (optional) =====
+reports/
+figures/
+*.png
+*.jpg
+*.jpeg
+*.svg

@@ -7,3 +7,5 @@ jupyter
 notebook
 ipykernel
 scipy
+streamlit
+joblib
